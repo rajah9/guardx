@@ -1,0 +1,69 @@
+"C:\Program Files\Java\jdk1.8.0_45\bin\java" -ea -Didea.launcher.port=7532 "-Didea.launcher.bin.path=C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3\lib\idea_rt.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3\plugins\junit\lib\junit-rt.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\ext\zipfs.jar;C:\Users\Rajah\IdeaProjects\bTree\target\test-classes;C:\Users\Rajah\IdeaProjects\bTree\target\classes;C:\Users\Rajah\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar" com.intellij.rt.execution.application.AppMain com.intellij.rt.execution.junit.JUnitStarter -ideVersion5 binaryTree.NodeTest
+Mar 22, 2017 12:44:30 PM binaryTree.NodeTest testMirrorTreeLarge
+INFO: Starting testMirrorTreeLarge. After mirror, nodes should print in descending order.
+Mar 22, 2017 12:44:30 PM binaryTree.Node printNode
+INFO: Node{val=8}
+Mar 22, 2017 12:44:30 PM binaryTree.Node printNode
+INFO: Node{val=7}
+Mar 22, 2017 12:44:30 PM binaryTree.Node printNode
+INFO: Node{val=6}
+Mar 22, 2017 12:44:30 PM binaryTree.Node printNode
+INFO: Node{val=5}
+Mar 22, 2017 12:44:30 PM binaryTree.Node printNode
+INFO: Node{val=4}
+Mar 22, 2017 12:44:30 PM binaryTree.Node printNode
+INFO: Node{val=3}
+Mar 22, 2017 12:44:30 PM binaryTree.Node printNode
+INFO: Node{val=2}
+Mar 22, 2017 12:44:30 PM binaryTree.Node printNode
+INFO: Node{val=0}
+Mar 22, 2017 12:44:30 PM binaryTree.Node printNode
+INFO: Node{val=-2}
+Mar 22, 2017 12:44:30 PM binaryTree.Node printNode
+INFO: Node{val=-3}
+Mar 22, 2017 12:44:30 PM binaryTree.Node printNode
+INFO: Node{val=-4}
+Mar 22, 2017 12:44:30 PM binaryTree.Node printNode
+INFO: Node{val=-5}
+Mar 22, 2017 12:44:30 PM binaryTree.Node printNode
+INFO: Node{val=-6}
+
+Mar 22, 2017 12:44:30 PM binaryTree.Node printNode
+INFO: Node{val=-7}
+Mar 22, 2017 12:44:30 PM binaryTree.Node printNode
+INFO: Node{val=-8}
+Mar 22, 2017 12:44:30 PM binaryTree.NodeTest testMirrorTreeLarge
+INFO: Ending testMirrorTreeLarge.
+Mar 22, 2017 12:44:30 PM binaryTree.NodeTest testPrintTree_Depth
+INFO: Starting testPrintTree_Depth. Nodes should print in ascending order.
+Mar 22, 2017 12:44:30 PM binaryTree.Node printNode
+INFO: Node{val=-7}
+Mar 22, 2017 12:44:30 PM binaryTree.Node printNode
+INFO: Node{val=-5}
+Mar 22, 2017 12:44:30 PM binaryTree.Node printNode
+INFO: Node{val=-3}
+Mar 22, 2017 12:44:30 PM binaryTree.Node printNode
+INFO: Node{val=0}
+Mar 22, 2017 12:44:30 PM binaryTree.Node printNode
+INFO: Node{val=3}
+Mar 22, 2017 12:44:30 PM binaryTree.Node printNode
+INFO: Node{val=5}
+Mar 22, 2017 12:44:30 PM binaryTree.Node printNode
+INFO: Node{val=7}
+Mar 22, 2017 12:44:30 PM binaryTree.NodeTest testPrintTree_Depth
+INFO: Ending testPrintTree_Depth.
+Mar 22, 2017 12:44:30 PM binaryTree.NodeTest testMirrorTreeLarge2
+INFO: Starting testMirrorTreeLarge2.
+Mar 22, 2017 12:44:30 PM binaryTree.NodeTest testMirrorTreeLarge2
+INFO: Ending testMirrorTreeLarge2.
+Mar 22, 2017 12:44:30 PM binaryTree.Node printNode
+INFO: Node{val=42}
+
+Mar 22, 2017 12:44:30 PM binaryTree.Node printNode
+INFO: Node{val=root}
+Mar 22, 2017 12:44:30 PM binaryTree.Node printNode
+INFO: Node{val=left}
+Mar 22, 2017 12:44:30 PM binaryTree.Node printNode
+INFO: Node{val=right}
+
+Process finished with exit code 0
